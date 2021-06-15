@@ -27,7 +27,7 @@ sudo mbed compile --source . --source ~/ee2405/mbed-os-build/ -m B_L4S5I_IOT01A 
 
 | command | para                      | function  |
 | ------- | ------------------------- | --------- |
-| p       | direciton, d1(cm), d2(cm) | Part1     |
+| p       |  d1(cm), d2(cm),direciton | Part1     |
 | m 0        | none                      | Part2     |
 | m 1       | none                      | Part3     |
 | t       | none                      | terminate |
